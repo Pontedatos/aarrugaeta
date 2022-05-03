@@ -1,10 +1,6 @@
 # Trabajo final
-Este repositorio de GitHub contiene todas las prácticas realizadas en la asignatura Periodismo de Datos en el curso 2021-2022 por Ane Arrugaeta, alumna de 5º de Periodismo y Humanidades en la Universidad Carlos III de Madrid.
-## Índice de las prácticas
-### Prá# Trabajo final
-Este repositorio de GitHub contiene todas las prácticas realizadas en la asignatura Periodismo de Datos en el curso 2021-2022 por Ane Arrugaeta, alumna de 5º de Periodismo y Humanidades en la Universidad Carlos III de Madrid. Además de recopilar los trabajos realizados hasta ahora también contiene un archivo que explica resumidamente lo aprendido en el curso y un archivo que indica la metodología empleada en el trabajo final.
-## Índice de las prácticas
-### Práctica 1
+Este repositorio de GitHub contiene todas las prácticas realizadas en la asignatura Periodismo de Datos en el curso 2021-2022 por Ane Arrugaeta, alumna de 5º de Periodismo y Humanidades en la Universidad Carlos III de Madrid. Además d   e recopilar los trabajos realizados hasta ahora también contiene un archivo que explica resumidamente lo aprendido en el curso y un archivo que indica la metodología empleada en el trabajo final.
+## Práctica 1
 Esta práctica consisitó en analizar y cometar dos piezas informativas distintas que hacían uso de las herramientas del periodismo de datos. El primer artículo a analizar fue el del proyecto TRESCA y el segundo era a libre elección del alumno. En mi caso elegí un artículo del diario.es sobre la evolución de la Covid-19. se dividió en dos comentarios diferentes. En primer lugar, se debía  analizar y comentar proyecto TRESCA.
 
 ## Práctica 2 
