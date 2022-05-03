@@ -23,6 +23,7 @@ Esta última práctica consistió en crear un nuevo *notebook* de Python a trav�
 - [Notebook de la práctica 4 formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4.ipybn)
 ## Metodología empleada para el trabajo final
 En el siguiente archivo .md se encuentran los pasos que se han seguido para llevar a cabo el trabajo final. 
-
+- [Metodología](https://github.com/Pontedatos/aarrugaeta/blob/main/metodologia.md)
 ## Resumen de lo aprendido en el curso
 A continuación se enlaza un archivo .md en el que se recogen los principales aspectos aprendidos a lo largo de la asignatura Periodismo de Datos.
+-[Resumen](https://github.com/Pontedatos/aarrugaeta/blob/main/resumen.md)
