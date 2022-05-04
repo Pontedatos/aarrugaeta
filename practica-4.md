@@ -7,4 +7,6 @@ Para la práctica 4 se nos ha pedido que escojamos de forma libre un conjunto de
 
 En mi caso concreto he seleccionado una base de datos a través del portal de datos abiertos del Gobierno español, [Datos.gob.es](https://datos.gob.es/es), que contenía la información sobre las [pernoctaciones de los viajeros en España por comunidades y ciudades autónomas, país de residencia y meses en el año 2021](https://datos.gob.es/es/catalogo/ea0010587-pernoctaciones-de-los-viajeros-por-comunidades-y-ciudades-autonomas-pais-de-residencia-y-meses-eoap-identificador-api-t11-e162eoap-a2017-l0-01nad02-px). Estos datos, que estaban almacenados en csv, a través de pandas los hemos cargado en Python y hemos realizado un análisis de los mismos así como una visualización gráfica comparando el número de pernoctaciones de origen nacional con los de turistas extranjeros. Una vez con el análisis y la visualización de los datos realizados hemos podido bosquejar una historia de las tendencias turísticas en España.
  
- Podemos acceder a lo realizado a partir del siguiente enlace: 
+ Podemos acceder a lo realizado a partir de los siguientes enlaces:
+- [Notebook de la Práctica 4 en formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.html)
+- [Notebook de la Práctica 4 en formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.ipybn)
