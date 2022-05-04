@@ -1,4 +1,4 @@
-# # Metodología para la realización del Trabajo Final
+# Metodología para la realización del Trabajo Final
 ## Crear el repositorio
 Para realizar esta práctica, lo primero que hemos hecho ha sido crear un repositorio nuevo en Pontedatos con el nombre de mi usuario de GitHub, “aarrugaeta”. A continuación, ya que trabajamos desde la terminal, hemos clonado este repositorio en nuestro ordenador a través del comando `git clone`. De esta manera la carpeta del ordenador y el repositorio de GitHub quedan conectadas porque esta carpeta es un repositorio git en mi ordenador, un localhost, que tiene el mismo contenido que mi repositorio en línea. El siguiente paso que he dado ha sido el de copiar en esta carpeta las prácticas realizadas durante el curso. Esto lo he hecho con el comando `cp`, copiar un documento o una carpeta. Como queremos copiar los archivos de una carpeta en otra carpeta diferente nos situamos en aquella que contiene los archivos, llamamos al comando `cp`, espeficicamos cuáles son los archivos que queremos copiar y, por último, le señalamos la ruta de la carpeta destino.
 
