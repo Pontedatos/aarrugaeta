@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Trabajo final
+Este repositorio de GitHub contiene todas las prácticas realizadas en la asignatura Periodismo de Datos en el curso 2021-2022 por Ane Arrugaeta, alumna de 5º de Periodismo y Humanidades en la Universidad Carlos III de Madrid. Además d   e recopilar los trabajos realizados hasta ahora también contiene un archivo que explica resumidamente lo aprendido en el curso y un archivo que indica la metodología empleada en el trabajo final.
+## Práctica 1
+Esta práctica consisitó en analizar y cometar dos piezas informativas distintas que hacían uso de las herramientas del periodismo de datos. El primer artículo a analizar fue el del proyecto TRESCA y el segundo era a libre elección del alumno. En mi caso elegí un artículo del diario.es sobre la evolución de la Covid-19.
+- [Práctica 1 TRESCA](https://github.com/Pontedatos/aarrugaeta/blob/main/practica-1-TRESCA.md)
+- [Práctica 1 libre](https://github.com/Pontedatos/aarrugaeta/blob/main/practica-1-libre.md)
+## Práctica 2 
+Para esta segunda práctica tuvimos que redactar un artículo a partir de informaciones redactadas por otros periodistas o instituciones que tuvieran visualizaciones de datos. Yo elegí una pieza informativa de la página web de Naciones Unidas en las que se va actualizando sobre la situación de los refugiados ucranianos.
+- [Práctica 2](https://github.com/Pontedatos/aarrugaeta/blob/main/practica-2.md)
+## Práctica 3 
+La práctica 3 consistió en completar y comentar los *notebooks* que creamos a través Jupyter en clase, los "notebooks" "barchart" y "api-pandas-folium" realizados en los lenguajes de R y Python. Se nos pedía que explicáramos los pasos seguidos dejando claro que habíamos entendido lo aprendido en clase y sino señalando lo que no habíamos comprendido aun. Una vez realizado esto tuvimos que descargalos en formato "ipynb" y "html" para después subirlos a nuestro repositorio de GitHub desde la terminal.
+- [Explicación práctica 3](https://github.com/Pontedatos/aarrugaeta/blob/main/practica-3.md)
+- [Notebook del Mapa de Zaragoza formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/api-pandas-folium-Corregido.html)
+- [Notebook del Mapa de Zaragoza formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/api-pandas-folium-Corregido.ipybn)
+- [Notebook de la prueba en R formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/probando-con-r-Corregido.html)
+- [Notebook de la prueba en R formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/probando-con-r-Corregido.ipybn)
+- [Notebook del análisis de los datos del Covid-19 formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/python-api-covid-pandas-Corregido.html)
+- [Notebook del análisis de los datos del Covid-19 formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/python-api-covid-pandas-Corregido.ipybn)
+## Práctica 4
+Esta última práctica consistió en crear un nuevo *notebook* de Python a través de Jupyter en el que teníamos que analizar y tratar unos datos obtenidos a través de [Datos.gob.es](https://datos.gob.es/es) para después generar una visualización de datos y bosquejar una historia con ellos. También tuvimos que descargar los *notebook* en "ipynb" y "html", así como la fuente de datos empleada en formato .csv, para posteriormente subirlos a nuestro repositorio de GitHub desde la terminal. En mi caso realicé un análisis de los datos sobre las pernoctaciones en España el año 2021 por comunidades y ciudades autónomas en función del país de residencia.
+- [Explicación práctica 4](https://github.com/Pontedatos/aarrugaeta/blob/main/practica-4.md)
+- [Notebook de la práctica 4 formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.html)
+- [Notebook de la práctica 4 formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.ipybn)
+## Metodología empleada para el trabajo final
+En el siguiente archivo .md se encuentran los pasos que se han seguido para llevar a cabo el trabajo final. 
+- [Metodología](https://github.com/Pontedatos/aarrugaeta/blob/main/metodologia.md)
+## Resumen de lo aprendido en el curso
+A continuación se enlaza un archivo .md en el que se recogen los principales aspectos aprendidos a lo largo de la asignatura Periodismo de Datos.
+- [Resumen](https://github.com/Pontedatos/aarrugaeta/blob/main/resumen.md)
 
-You can use the [editor on GitHub](https://github.com/Pontedatos/aarrugaeta/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Pontedatos/aarrugaeta/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
