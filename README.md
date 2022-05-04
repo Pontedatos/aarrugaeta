@@ -26,4 +26,4 @@ En el siguiente archivo .md se encuentran los pasos que se han seguido para llev
 - [Metodología](https://github.com/Pontedatos/aarrugaeta/blob/main/metodologia.md)
 ## Resumen de lo aprendido en el curso
 A continuación se enlaza un archivo .md en el que se recogen los principales aspectos aprendidos a lo largo de la asignatura Periodismo de Datos.
--[Resumen](https://github.com/Pontedatos/aarrugaeta/blob/main/resumen.md)
+- [Resumen](https://github.com/Pontedatos/aarrugaeta/blob/main/resumen.md)
