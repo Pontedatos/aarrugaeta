@@ -9,4 +9,4 @@ En mi caso concreto he seleccionado una base de datos a través del portal de da
  
  Podemos acceder a lo realizado a partir de los siguientes enlaces:
 - [Notebook de la Práctica 4 en formato html](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.html)
-- [Notebook de la Práctica 4 en formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.ipybn)
+- [Notebook de la Práctica 4 en formato ipybn](https://github.com/Pontedatos/aarrugaeta/blob/main/Practica-4-Corregida.ipynb)
